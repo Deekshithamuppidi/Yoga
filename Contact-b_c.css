@@ -1,0 +1,169 @@
+#background
+{
+    background-color: #077054;
+}
+#header1{
+    text-align: center;
+    font-size: 25px; 
+    padding: 0%;
+
+
+    
+    
+}
+#home{
+    color: #99fa99 ;
+     text-decoration: none;
+}  
+a{
+    text-decoration: none;
+}
+ 
+.a{
+    color: #b6d8cf ;
+    
+    
+}
+.a:hover{
+    color: rgb(223, 114, 223);
+    
+}
+.a:visited{
+    color: #b6d8cf ;
+   
+}
+.a:link{
+    color: #b6d8cf ;
+   
+}
+.a:active{
+    color: #99fa99;
+   
+}
+#classes:hover{
+    padding: 50px;
+    
+    
+}
+
+#h1, #foot{
+    color: #99fa99;
+   
+    font-family:'nixie_oneregular';
+    display:inline-block;
+    
+}
+#para1{
+    color: #b6d8cf;
+    font-size: 29px;
+    margin-top: -29px;
+    
+}
+#header2{
+    text-align: center;
+    color: #b6d8cf;
+    font-size: 20px;
+    padding:5px;
+    text-decoration: none;
+}
+
+img{
+    margin-left: 600px;
+    margin-top: 100px;
+}
+ 
+#footer{
+    margin-left: 170px;
+}
+#foot1{
+    color: #b6d8cf;
+    margin-top: -20px;
+    display: inline-block;
+    
+}
+
+
+ #quote{
+    border: 5px solid white; 
+    height: 800px;
+    width:70%;
+    margin-left: 170px;
+    background-color: white;
+    color:#21a51e;
+
+} 
+
+
+ #fb{
+display: inline-block;
+position: absolute;
+top:925px;
+left: 300px;
+height: 30px;
+
+
+}
+#twit{
+    display: inline-block;
+    position: absolute;
+    top:925px;
+    left: 350px;
+    height: 30px;
+   
+}
+#google{
+    display: inline-block;
+position: absolute;
+top:925px;
+left: 400px;
+    height: 30px;
+    
+}
+#pt{
+    display: inline-block;
+    position: absolute;
+    top:925px;
+    left: 450px;
+    height: 30px;
+   
+} 
+#cntct{
+    
+        font-size: 40px;
+        color:#21a51e ;margin: 40px;
+    
+}
+#form{
+    margin-left: 250px;  
+    margin-top: 50px;
+    color: #315f52; 
+    font-family: 'latoregular';
+    font-size: 16px; 
+}
+input{
+    margin: 10px;
+    background-color: rgb(220, 218, 218);
+    width: 450px;
+    height: 40px;
+    outline-color:  rgb(220, 218, 218) ;
+    
+}
+label,#in{
+    margin-left: 10px;
+}
+
+#d{
+    height: 250px;
+}
+#send{
+    width:50px;
+    height: 25px;
+    background-color: #315f52;
+    border-radius: 5px;
+    margin-left: 420px;
+    margin-top: -2px;
+    color: white;
+}
+input:hover{
+    outline-color: black;
+}

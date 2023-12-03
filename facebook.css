@@ -1,0 +1,97 @@
+*{
+    background-color: whitesmoke;
+}
+a{
+    text-decoration: none;
+    color: blue;
+    margin-left: 60px;
+    font-size: 20px;
+}
+a:hover{
+     text-decoration:underline ;
+}
+
+input{
+    font-size: 15px;
+    width: 300px;
+    padding:10px;
+    font-size: 20px ;
+    border-radius: 5px;
+    
+
+}
+input:hover{
+    outline-color: blue;
+}
+#login{
+    background-color: rgb(81, 81, 222);
+    color: white;
+    width: 320px;
+    padding:10px;
+    font-size: 20px ;
+    border-radius: 5px;
+    cursor: pointer;
+}
+button{
+    background-color: rgb(38, 212, 38);
+    font-size: 15px;
+    color: white;
+    font-weight: bold;
+    width:230px ;
+    padding: 10px;
+    margin-left: 30px;
+    border-radius: 5px;
+   
+}
+button:hover{
+    background-color: darkgreen;
+}
+ hr{
+    width: 300px;
+    margin-left: 10px;
+ }
+ 
+ #form{
+    /* border: 1px solid black; */
+    width:325px;
+    padding: 10px;
+    border-radius:1% ;
+    box-shadow: 0px 0px 5px rgba(0, 0,0, 0.5);
+    margin-left: 800px;
+    margin-top: -200px;
+ }
+ #link2{
+    color:black;
+    font-size: 16px;
+    font-weight: bold;
+ }
+#para1::first-letter{
+    font-size: 30px;
+}
+#para1{
+    
+    font-family: 'Dancing Script', cursive;
+font-family: 'Josefin Sans', sans-serif;
+font-family: 'Poiret One', cursive;
+font-family: 'Poppins', sans-serif;
+font-family: 'Roboto', sans-serif;
+font-size: 20px;
+padding: 0px;
+margin-top: -100px;
+margin-left: 30px;
+
+
+}
+
+#para2{
+    font-size:16px;
+    margin-left: 750px;
+   
+    
+}
+#logo{
+    margin-left: 300px;
+    margin-top: 150px;
+
+}
+

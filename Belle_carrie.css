@@ -1,0 +1,158 @@
+#background
+{
+    background-color: #077054;
+}
+#header1{
+    text-align: center;
+    font-size: 25px; 
+    padding: 0%;
+    
+   
+}
+a{
+    text-decoration: none;
+}
+#home{
+    color: #99fa99 ;
+  
+}
+
+.abc{
+    color: #b6d8cf ;
+    text-decoration:#077054;
+    
+    
+}
+.abc:hover{
+    color: rgb(223, 114, 223);
+    
+}
+    
+
+.abc:visited{
+    color: #b6d8cf ;
+    
+}
+.abc:link{
+     color: #99fa99; 
+     
+   
+}
+.abc:active{
+    color: #b6d8cf ;
+    
+   
+} 
+#classes:hover{
+    padding: 50px;
+    
+    
+}
+
+#h1, #foot{
+    color: #99fa99;
+   
+    font-family:'nixie_oneregular';
+    display:inline-block;
+    
+}
+#para1{
+    color: #b6d8cf;
+    font-size: 29px;
+    margin-top: -29px;
+    
+}
+#header2{
+    text-align: center;
+    color: #b6d8cf;
+    font-size: 20px;
+    padding:5px;
+    text-decoration: none;
+}
+
+img{
+    margin-left: 600px;
+    margin-top: 100px;
+}
+ 
+#footer{
+    margin-left: 170px;
+}
+#foot1{
+    color: #b6d8cf;
+    margin-top: -20px;
+    display: inline-block;
+    
+}
+
+
+ #quote{
+    border: 5px solid white; 
+    height: 800px;
+    width:70%;
+    margin-left: 170px;
+    background-color: white;
+    color:#21a51e;
+
+} 
+ #purple{
+    padding:0px;
+    margin-left: 150px;
+   position : absolute;
+   top:300px; 
+ } 
+ #body1{
+    margin-top: -610px;
+    margin-left: 30px;
+    
+} 
+ #sym{
+    font-size: 90px;
+    margin-left: 50px;
+    font-family:  'nixie_oneregular';
+    font-weight: normal;
+    padding: 0; 
+}
+    
+
+  #yoga
+{
+margin-top: -50px;
+display: inline-block;
+}  
+
+ #fb{
+display: inline-block;
+position: absolute;
+top:925px;
+left: 300px;
+height: 30px;
+
+
+}
+#twit{
+    display: inline-block;
+    position: absolute;
+    top:925px;
+    left: 350px;
+    height: 30px;
+   
+}
+#google{
+    display: inline-block;
+position: absolute;
+top:925px;
+left: 400px;
+    height: 30px;
+    
+}
+#pt{
+    display: inline-block;
+    position: absolute;
+    top:925px;
+    left: 450px;
+    height: 30px;
+   
+} 
+
+

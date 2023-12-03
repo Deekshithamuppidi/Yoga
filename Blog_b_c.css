@@ -1,0 +1,174 @@
+#background
+{
+    background-color: #077054;
+}
+#header1{
+    text-align: center;
+    font-size: 25px; 
+    padding: 0%;
+    /* text-decoration: none; */
+
+
+    
+    
+}
+#home{
+    color: #99fa99 ;
+
+}
+
+.a{
+    color: #b6d8cf ;
+   
+    
+    
+}
+.a:hover{
+     color: rgb(223, 114, 223);
+    
+}
+.a:visited{
+    color: #b6d8cf ;
+  
+   
+}
+.a:link{
+     color: #99fa99 ;
+     
+}
+.a:active{
+    color: #b6d8cf ;
+   
+}
+#classes:hover{
+    padding: 50px;
+    
+    
+}
+
+#h1, #foot{
+    color: #99fa99;
+   
+    font-family:'nixie_oneregular';
+    display:inline-block;
+    
+}
+#para1{
+    color: #b6d8cf;
+    font-size: 29px;
+    margin-top: -29px;
+    
+}
+#header2{
+    text-align: center;
+    color: #b6d8cf;
+    font-size: 20px;
+    padding:5px;
+    text-decoration: none;
+}
+
+img{
+    margin-left: 600px;
+    margin-top: 100px;
+}
+ 
+#footer{
+    margin-left: 170px;
+}
+#foot1{
+    color: #b6d8cf;
+    margin-top: -20px;
+    display: inline-block;
+    
+}
+
+
+ #quote{
+    border: 5px solid white; 
+    height: 800px;
+    width:70%;
+    margin-left: 170px;
+    background-color: white;
+    color:#21a51e;
+
+} 
+
+
+ #fb{
+display: inline-block;
+position: absolute;
+top:1000px;
+left: 800px;
+height: 30px;
+
+
+}
+#twit{
+    display: inline-block;
+    position: absolute;
+    top:1000px;
+    left: 850px;
+    height: 30px;
+   
+}
+
+#google{
+    display: inline-block;
+position: absolute;
+top:1000px;
+left: 900px;
+    height: 30px;
+    
+}
+#pt{
+    display: inline-block;
+    position: absolute;
+    top:1000px;
+    left: 950px;
+    height: 30px;
+   
+}
+#info{
+    display: inline-block;
+} 
+img{
+    margin-left: 50px;
+    margin-top: 20px;
+}
+.ab{
+    display: inline-block;
+    height:300px;
+    width:640px;
+    margin-left: 260px;
+    margin-top: -600px;
+    font-size: 16px;
+    color: #315f52; 
+    font-family: 'latoregular';
+     
+}
+a{
+    text-decoration: none;
+    
+}
+a:hover{
+    text-decoration: underline;
+}
+.lin{
+    color: #315f52;
+    font-size: 25px;
+}
+#sec{
+    margin-top: -150px;
+}
+#third{
+    margin-top: -150px;
+}
+#blog{
+    
+    
+        font-size: 40px;
+        color:#21a51e ;margin: 40px;
+        font-weight: normal;
+    
+
+}
